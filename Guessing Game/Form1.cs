@@ -79,7 +79,7 @@ namespace Guessing_Game
                 outputLabel.Text += "\nCold";
             }
 
-            else if (range <= 50)
+            else
             {
                 outputLabel.Text += "\nFreezing";
             }
